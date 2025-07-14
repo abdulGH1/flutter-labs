@@ -1,0 +1,30 @@
+# Flutter/Dart build and tool files
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+
+# Package files
+.packages
+.pub-cache/
+.pub/
+
+# Generated files
+*.lock
+*.log
+
+# Android Studio
+.idea/
+*.iml
+android/.gradle/
+android/local.properties
+
+# iOS/macOS
+ios/Flutter/Generated.xcconfig
+ios/Pods/
+macos/Pods/
+macos/Flutter/GeneratedPluginRegistrant.swift
+
+# VS Code settings
+.vscode/
